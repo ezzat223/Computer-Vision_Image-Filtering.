@@ -1,4 +1,4 @@
-# Task 1 computer vision team 13
+# Computer Vision Image Filtering
 ## Requirement
 
 Use the package manager [pip] to install:
