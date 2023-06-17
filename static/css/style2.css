@@ -1,0 +1,56 @@
+
+#image_input1{
+    z-index: 999;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute; 
+    right: 0px; 
+    left: 0px; 
+    margin-right: auto; 
+    margin-left: auto;
+}
+#image_input{
+    z-index: 999;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute; 
+    right: 0px; 
+    left: 0px; 
+    margin-right: auto; 
+    margin-left: auto;
+}
+#image_input2{
+    z-index: 999;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute; 
+    right: 0px; 
+    left: 0px; 
+    margin-right: auto; 
+    margin-left: auto;
+}
+#sideBar{
+    
+    height: 90%;
+}
+#logo{
+    margin:0 ;
+    padding-left: 0;
+}
+.inputFiled{
+    display: inline-block;
+    width: 60px;
+    border: solid 0.5px #e2e8f0 ;
+    border-radius: 5px;
+}
+#backBtn{
+    background-image: url("../img/backicon-removebg-preview.png");
+    background-position: center;
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+    /* border-radius: 20px; */
+} 
